@@ -1,6 +1,6 @@
 {
   "name": "language-thrift",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Syntax highlighting and snippets for Thrift files.",
   "repository": "https://github.com/davidcelis/language-thrift",
   "license": "MIT",
